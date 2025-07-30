@@ -194,15 +194,15 @@ a:visited{
 }
 
 .my-list li:first-child{
-    background: red;
+    background: green;
 }
 
 .my-list li:last-child{
-    background: blue;
+    background: purple;
 }
 
 .my-list li:nth-child(5){
-    background: yellow;
+    background: orange;
 }
 
 .my-list li:nth-child(even){
